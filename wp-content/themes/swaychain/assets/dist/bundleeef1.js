@@ -39601,7 +39601,7 @@
           .to('.loader__text span', {
             duration: 2,
             scrambleText: {
-              text: 'SWAYCHAIN',
+              text: 'KD BLOCK',
               chars: 'upperCase',
               revealDelay: 0.5,
               tweenLength: !1,
