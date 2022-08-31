@@ -40118,7 +40118,7 @@
                   )
                   .to(
                     ':root',
-                    { '--main-bg-color': '#0e0e0e', duration: 1 },
+                    { '--main-bg-color': '#000', duration: 1 },
                     'start',
                   )
                   .to(
