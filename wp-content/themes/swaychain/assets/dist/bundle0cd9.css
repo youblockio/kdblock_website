@@ -97,7 +97,9 @@ h6 {
     font-weight: 500;
     line-height: 1.2
 }
-
+.nftcard {
+    height: 80vh !important;
+}
 h1 {
     font-size: calc(1.375rem + 1.5vw)
 }
